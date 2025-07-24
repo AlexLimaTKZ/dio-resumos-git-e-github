@@ -32,7 +32,7 @@ Repositório para armazenar resumos sobre git e github do curso de versionamento
 
 
 `
-<Hello World>
+<Hello World> / Praticando aprendizado Git e Github
 `
 
 ## Referências 🔎
